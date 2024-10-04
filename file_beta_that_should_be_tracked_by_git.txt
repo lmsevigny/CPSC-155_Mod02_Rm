@@ -1,0 +1,1 @@
+Content of file file_beta_that_should_be_tracked_by_git.txt
