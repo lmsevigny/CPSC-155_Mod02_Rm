@@ -1,4 +1,4 @@
-# Ch2.2
+# Module 02
 # Exercise: No Longer Track with Git (but still Keep on Disk) a File that Was Accidentally Committed
 
 ## Step 1
